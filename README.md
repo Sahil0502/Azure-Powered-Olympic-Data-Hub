@@ -22,7 +22,9 @@ The Azure-Powered Olympic Data Hub is a comprehensive data solution designed to 
 3. **🛠️ Data Transformation**: Databricks and Synapse Analytics standardize, clean, and process the ingested data.
 4. **📊 Data Visualization**: Power BI connects to processed data to generate insightful dashboards.
 
-![Architecture Diagram](link-to-architecture-diagram)
+![Architecture Diagram]
+![image](https://github.com/user-attachments/assets/85522c10-659f-4687-a439-ced45a2f3f0a)
+
 
 ## Achievements 🏆
 - **📈 Efficiency Gains**: Improved analytics efficiency by 40%, accelerating decision-making processes.
