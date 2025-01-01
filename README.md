@@ -52,8 +52,8 @@ Contributions are welcome! Please follow the guidelines in the [Contributing Gui
 
 ## Contact 📬
 For questions or support, please reach out to:
-- **📧 Email**: (sahilsinghm32.email@gmail.com)
-- **🔗 LinkedIn**: (https://www.linkedin.com/in/sahil-singh-ss9824/)
+- **📧 Email**: sahilsinghm32@gmail.com
+- **🔗 LinkedIn**: https://www.linkedin.com/in/sahil-singh-ss9824/
 
 ---
 
