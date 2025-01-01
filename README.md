@@ -22,7 +22,6 @@ The Azure-Powered Olympic Data Hub is a comprehensive data solution designed to 
 3. **🛠️ Data Transformation**: Databricks and Synapse Analytics standardize, clean, and process the ingested data.
 4. **📊 Data Visualization**: Power BI connects to processed data to generate insightful dashboards.
 
-![Architecture Diagram]
 ![image](https://github.com/user-attachments/assets/495b7147-65ce-465f-a88d-8a8ea46b0132)
 
 
@@ -37,7 +36,9 @@ The Power BI dashboards include:
 - **🏅 Athlete Performance Analysis**: Visualizing trends and comparisons.
 - **🥇 Medal Distribution**: Insights into medal counts by country, sport, and year.
 - **📅 Event Statistics**: Detailed breakdowns of event-specific data.
-![image](https://github.com/user-attachments/assets/50df30c7-d20e-4782-a744-9c98053e00c6)
+
+![image](https://github.com/user-attachments/assets/2e17c754-0213-48cc-9791-3d6692f46c7f)
+
 
 ## How to Use 🛠️
 1. Clone the repository: `git clone <repository-url>`
