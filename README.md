@@ -41,7 +41,7 @@ The Power BI dashboards include:
 
 
 ## How to Use 🛠️
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/Sahil0502/Azure-Powered-Olympic-Data-Hub.git`
 2. Set up Azure services as outlined in the [Setup Guide](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/).
 3. Run the data pipeline using Azure Data Factory.
 4. Open the Power BI dashboards to explore insights.
